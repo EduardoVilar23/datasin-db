@@ -13,10 +13,5 @@
       "id": "pregao1332023",
       "name": "Pregão Eletrônico 133/2023 PMP",
       "url": "https://raw.githubusercontent.com/EduardoVilar23/datasin-db/refs/heads/master/bases/pregao.json"
-    },
-    {
-      "id": "test",
-      "name": "TESTE EM PRODUÇÃO",
-      "url": "https://raw.githubusercontent.com/EduardoVilar23/datasin-db/refs/heads/master/bases/teste.json"
     }
   ]
