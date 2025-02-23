@@ -2,16 +2,16 @@
     {
       "id": "sinapi",
       "name": "SINAPI",
-      "url": "https://datasin.com.br/"
+      "url": "https://raw.githubusercontent.com/EduardoVilar23/datasin-db/refs/heads/master/bases/sinapi.json"
     },
     {
       "id": "sicro",
       "name": "SICRO",
-      "url": "https://datasin.com.br/"
+      "url": "https://raw.githubusercontent.com/EduardoVilar23/datasin-db/refs/heads/master/bases/sicro.json"
     },
     {
       "id": "pregao1332023",
       "name": "Pregão Eletrônico 133/2023 PMP",
-      "url": "https://datasin.com.br/"
+      "url": "https://raw.githubusercontent.com/EduardoVilar23/datasin-db/refs/heads/master/bases/pregao.json"
     }
   ]
