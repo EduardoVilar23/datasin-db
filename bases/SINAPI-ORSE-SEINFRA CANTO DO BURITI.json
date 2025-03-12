@@ -1,0 +1,674 @@
+[
+    {
+        "CODIGO": "90778",
+        "DESCRICAO": "Engenheiro  Civil  De  Obra  Pleno\nCom Encargos Complementares",
+        "UNIDADE": "H",
+        "CUSTO": "97.66"
+    },
+    {
+        "CODIGO": "90780",
+        "DESCRICAO": "Mestre  De  Obras  Com  Encargos Complementares",
+        "UNIDADE": "H",
+        "CUSTO": "40.99"
+    },
+    {
+        "CODIGO": "90776",
+        "DESCRICAO": "Encarregado Geral Com Encargos Complementares",
+        "UNIDADE": "H",
+        "CUSTO": "27.11"
+    },
+    {
+        "CODIGO": "88326",
+        "DESCRICAO": "Vigia   Noturno   Com   Encargos Complementares",
+        "UNIDADE": "H",
+        "CUSTO": "19.56"
+    },
+    {
+        "CODIGO": "103689",
+        "DESCRICAO": "Fornecimento   E   Instalação   De Placa    De    Obra    Com    Chapa Galvanizada    E    Estrutura    De\nMadeira. Af_03/2022_Ps",
+        "UNIDADE": "m²",
+        "CUSTO": "302.55"
+    },
+    {
+        "CODIGO": "97622",
+        "DESCRICAO": "Demolição    De    Alvenaria    De Bloco Furado, De Forma Manual, Sem                  Reaproveitamento.\nAf_09/2023",
+        "UNIDADE": "m³",
+        "CUSTO": "41.48"
+    },
+    {
+        "CODIGO": "97631",
+        "DESCRICAO": "Demolição   De   Argamassas,   De Forma            Manual,            Sem\nReaproveitamento. Af_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "8.43"
+    },
+    {
+        "CODIGO": "97633",
+        "DESCRICAO": "Demolição     De     Revestimento\nCerâmico, De Forma Manual, Sem Reaproveitamento. Af_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "16.84"
+    },
+    {
+        "CODIGO": "97640",
+        "DESCRICAO": "Remoção  De  Forros  De  Drywall, Pvc  E  Fibromineral,  De  Forma Manual,  Sem  Reaproveitamento.\nAf_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "1.37"
+    },
+    {
+        "CODIGO": "97645",
+        "DESCRICAO": "Remoção  De  Janelas,  De  Forma\nManual,  Sem  Reaproveitamento. Af_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "18.26"
+    },
+    {
+        "CODIGO": "97644",
+        "DESCRICAO": "Remoção  De  Portas,  De  Forma Manual,  Sem  Reaproveitamento.\nAf_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "7.06"
+    },
+    {
+        "CODIGO": "97650",
+        "DESCRICAO": "Remoção  De  Trama  De  Madeira Para     Cobertura,     De     Forma Manual,  Sem  Reaproveitamento.\nAf_09/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "5.66"
+    },
+    {
+        "CODIGO": "26",
+        "DESCRICAO": "Coleta    E    Carga    Manuais    De Entulho",
+        "UNIDADE": "m³",
+        "CUSTO": "15.44"
+    },
+    {
+        "CODIGO": "C4913",
+        "DESCRICAO": "Remoção     De     Pintura     Látex (Raspagem E/Ou Lixamento E/Ou\nEscovação)",
+        "UNIDADE": "m²",
+        "CUSTO": "6.17"
+    },
+    {
+        "CODIGO": "93358",
+        "DESCRICAO": "Escavação Manual  De Vala  Com\nProfundidade  Menor  Ou  Igual  A 1,30 M. Af_02/2021",
+        "UNIDADE": "m³",
+        "CUSTO": "61.08"
+    },
+    {
+        "CODIGO": "103800",
+        "DESCRICAO": "Pedra Argamassada Com Cimento E  Areia  1:3,  40%  De  Argamassa Em  Volume  -  Areia  E  Pedra  De Mão Comerciais - Fornecimento E\nAssentamento. Af_08/2022",
+        "UNIDADE": "m³",
+        "CUSTO": "615.15"
+    },
+    {
+        "CODIGO": "94963",
+        "DESCRICAO": "Concreto   Fck   =   15mpa,   Traço 1:3,4:3,5   (Em   Massa   Seca   De Cimento/ Areia Média/ Brita 1)  - Preparo Mecânico Com Betoneira\n400 L. Af_05/2021",
+        "UNIDADE": "m³",
+        "CUSTO": "550.71"
+    },
+    {
+        "CODIGO": "104488",
+        "DESCRICAO": "Composição    Paramétrica    Para Execução     De     Estruturas     De Concreto          Armado,          Para\nEdificação   Institucional   Térrea, Fck = 25 Mpa. Af_11/2022",
+        "UNIDADE": "m³",
+        "CUSTO": "2492.54"
+    },
+    {
+        "CODIGO": "93204",
+        "DESCRICAO": "Cinta De Amarração De Alvenaria\nMoldada  In  Loco  Em  Concreto. Af_03/2016",
+        "UNIDADE": "M",
+        "CUSTO": "51.02"
+    },
+    {
+        "CODIGO": "103333",
+        "DESCRICAO": "Alvenaria De Vedação De Blocos Cerâmicos Furados Na Horizontal De 9x14x19 Cm (Espessura 9 Cm) E   Argamassa   De   Assentamento\nCom Preparo Manual. Af_12/2021",
+        "UNIDADE": "m²",
+        "CUSTO": "98.95"
+    },
+    {
+        "CODIGO": "103335",
+        "DESCRICAO": "Alvenaria De Vedação De Blocos Cerâmicos Furados Na Horizontal De  14x9x19  Cm  (Espessura  14 Cm, Bloco Deitado) E Argamassa\nDe   Assentamento   Com   Preparo Manual. Af_12/2021",
+        "UNIDADE": "m²",
+        "CUSTO": "123.36"
+    },
+    {
+        "CODIGO": "73937/001",
+        "DESCRICAO": "Cobogo  De  Concreto  (Elemento Vazado),  7x50x50cm,  Assentado Com     Argamassa     Traco     1:4\n(Cimento E Areia)",
+        "UNIDADE": "m²",
+        "CUSTO": "139.87"
+    },
+    {
+        "CODIGO": "73948/016",
+        "DESCRICAO": "Limpeza  Manual  Do  Terreno  (C/ Raspagem Superficial)",
+        "UNIDADE": "m²",
+        "CUSTO": "3.86"
+    },
+    {
+        "CODIGO": "94342",
+        "DESCRICAO": "Aterro   Manual   De   Valas   Com Areia Para Aterro. Af_08/2023",
+        "UNIDADE": "m³",
+        "CUSTO": "78.3"
+    },
+    {
+        "CODIGO": "96995",
+        "DESCRICAO": "Reaterro  Manual  Apiloado  Com\nSoquete. Af_10/2017",
+        "UNIDADE": "m³",
+        "CUSTO": "37.03"
+    },
+    {
+        "CODIGO": "94224",
+        "DESCRICAO": "Emboçamento   Com   Argamassa\nTraço   1:2:9   (Cimento,   Cal   E Areia). Af_07/2019",
+        "UNIDADE": "M",
+        "CUSTO": "20.99"
+    },
+    {
+        "CODIGO": "55960",
+        "DESCRICAO": "Imunizacao    De    Madeiramento\nPara        Cobertura        Utilizando Cupinicida Incolor",
+        "UNIDADE": "m²",
+        "CUSTO": "6.85"
+    },
+    {
+        "CODIGO": "94201",
+        "DESCRICAO": "Telhamento Com Telha Cerâmica Capa-Canal,  Tipo  Colonial,  Com Até  2  Águas,  Incluso  Transporte\nVertical. Af_07/2019",
+        "UNIDADE": "m²",
+        "CUSTO": "33.1"
+    },
+    {
+        "CODIGO": "94219",
+        "DESCRICAO": "Cumeeira  E  Espigão  Para  Telha Cerâmica        Emboçada        Com Argamassa Traço 1:2:9 (Cimento, Cal E Areia), Para Telhados Com Mais    De    2    Águas,    Incluso\nTransporte Vertical. Af_07/2019",
+        "UNIDADE": "M",
+        "CUSTO": "24.85"
+    },
+    {
+        "CODIGO": "92541",
+        "DESCRICAO": "Trama De Madeira Composta Por Ripas,   Caibros   E   Terças   Para Telhados  De  Até  2  Águas  Para Telha     Cerâmica     Capa-Canal,\nIncluso      Transporte      Vertical. Af_07/2019",
+        "UNIDADE": "m²",
+        "CUSTO": "51.24"
+    },
+    {
+        "CODIGO": "94227",
+        "DESCRICAO": "Calha     Em     Chapa     De     Aço Galvanizado        Número        24, Desenvolvimento    De    33    Cm, Incluso      Transporte      Vertical.\nAf_07/2019",
+        "UNIDADE": "M",
+        "CUSTO": "65.63"
+    },
+    {
+        "CODIGO": "72101",
+        "DESCRICAO": "Revisão  Geral  De  Telhados  De Telhas Ceramicas",
+        "UNIDADE": "m²",
+        "CUSTO": "6.71"
+    },
+    {
+        "CODIGO": "83742",
+        "DESCRICAO": "Impermeabilização  De  Superficie\nCom  Emulsao  Asfáltica  A  Base D'agua",
+        "UNIDADE": "m²",
+        "CUSTO": "25.43"
+    },
+    {
+        "CODIGO": "94559",
+        "DESCRICAO": "Janela  De  Aço  Tipo  Basculante Para     Vidros,     Com     Batente, Ferragens E Pintura Anticorrosiva. Exclusive   Vidros,   Acabamento, Alizar          E          Contramarco. Fornecimento       E       Instalação.\nAf_12/2019",
+        "UNIDADE": "m²",
+        "CUSTO": "624.05"
+    },
+    {
+        "CODIGO": "94570",
+        "DESCRICAO": "Janela   De   Alumínio   De  Correr Com  2  Folhas  Para  Vidros,  Com Vidros,     Batente,     Acabamento Com   Acetato   Ou   Brilhante   E Ferragens.   Exclusive   Alizar   E\nContramarco.    Fornecimento    E Instalação. Af_12/2019",
+        "UNIDADE": "m²",
+        "CUSTO": "349.98"
+    },
+    {
+        "CODIGO": "90820",
+        "DESCRICAO": "Porta  De  Madeira  Para  Pintura, Semi-Oca    (Leve    Ou    Média), 60x210cm,  Espessura  De  3,5cm, Incluso            Dobradiças            - Fornecimento       E       Instalação.\nAf_12/2019",
+        "UNIDADE": "UN",
+        "CUSTO": "316.37"
+    },
+    {
+        "CODIGO": "90821",
+        "DESCRICAO": "Porta  De  Madeira  Para  Pintura, Semi-Oca    (Leve    Ou    Média), 70x210cm,  Espessura  De  3,5cm, Incluso            Dobradiças            -\nFornecimento       E       Instalação. Af_12/2019",
+        "UNIDADE": "UN",
+        "CUSTO": "321.92"
+    },
+    {
+        "CODIGO": "90822",
+        "DESCRICAO": "Porta  De  Madeira  Para  Pintura, Semi-Oca    (Leve    Ou    Média), 80x210cm,  Espessura  De  3,5cm, Incluso            Dobradiças            - Fornecimento       E       Instalação.\nAf_12/2019",
+        "UNIDADE": "UN",
+        "CUSTO": "344.64"
+    },
+    {
+        "CODIGO": "90823",
+        "DESCRICAO": "Porta  De  Madeira  Para  Pintura, Semi-Oca    (Leve    Ou    Média), 90x210cm,  Espessura  De  3,5cm, Incluso            Dobradiças            - Fornecimento       E       Instalação.\nAf_12/2019",
+        "UNIDADE": "UN",
+        "CUSTO": "423.81"
+    },
+    {
+        "CODIGO": "91341",
+        "DESCRICAO": "Porta Em Alumínio De Abrir Tipo Veneziana      Com      Guarnição, Fixação      Com      Parafusos      - Fornecimento       E       Instalação.\nAf_12/2019",
+        "UNIDADE": "m²",
+        "CUSTO": "606.5"
+    },
+    {
+        "CODIGO": "73932/001",
+        "DESCRICAO": "Grade  De  Ferro  Em  Barra  Chata 3/16\"\"",
+        "UNIDADE": "m²",
+        "CUSTO": "240.56"
+    },
+    {
+        "CODIGO": "84845",
+        "DESCRICAO": "Janela       De       Madeira       Tipo\nVeneziana.   De   Abrir,   Inclusas Guarnicoes E Ferragens",
+        "UNIDADE": "m²",
+        "CUSTO": "1562.08"
+    },
+    {
+        "CODIGO": "85001",
+        "DESCRICAO": "Vidro Liso Fume, Espessura 4mm",
+        "UNIDADE": "m²",
+        "CUSTO": "250.41"
+    },
+    {
+        "CODIGO": "84957",
+        "DESCRICAO": "Vidro Liso Comum Transparente, Espessura 5mm",
+        "UNIDADE": "m²",
+        "CUSTO": "224.17"
+    },
+    {
+        "CODIGO": "96486",
+        "DESCRICAO": "Forro  Em  Réguas  De  Pvc,  Liso, Para      Ambientes      Comerciais, Inclusive   Estrutura   Bidirecional\nDe Fixação. Af_08/2023_Ps",
+        "UNIDADE": "m²",
+        "CUSTO": "70.9"
+    },
+    {
+        "CODIGO": "96113",
+        "DESCRICAO": "Forro  Em  Placas  De  Gesso,  Para\nAmbientes                   Comerciais. Af_08/2023_Ps",
+        "UNIDADE": "m²",
+        "CUSTO": "39.29"
+    },
+    {
+        "CODIGO": "95241",
+        "DESCRICAO": "Lastro     De     Concreto     Magro, Aplicado  Em  Pisos,  Lajes  Sobre Solo Ou Radiers, Espessura De 5\nCm. Af_07/2016",
+        "UNIDADE": "m²",
+        "CUSTO": "34.73"
+    },
+    {
+        "CODIGO": "87690",
+        "DESCRICAO": "Contrapiso  Em  Argamassa  Traço 1:4  (Cimento  E  Areia),  Preparo Mecânico  Com  Betoneira  400  L, Aplicado  Em  Áreas  Secas  Sobre",
+        "UNIDADE": "m²",
+        "CUSTO": "49.5"
+    },
+    {
+        "CODIGO": "76448/002",
+        "DESCRICAO": "Piso     Cimentado     Traço     1:4 (Cimento  E  Areia)  Acabamento Rustico Espessura 3,5 Cm Preparo\nManual Da Argamassa",
+        "UNIDADE": "m²",
+        "CUSTO": "57.2"
+    },
+    {
+        "CODIGO": "104162",
+        "DESCRICAO": "Piso Em Granilite, Marmorite Ou Granitina Em Ambientes Internos, Com Espessura De 8 Mm, Incluso Mistura Em Betoneira, Colocação Das Juntas, Aplicação Do Piso, 4 Polimentos        Com        Politriz, Estucamento,   Selador   E   Cera.\nAf_06/2022",
+        "UNIDADE": "m²",
+        "CUSTO": "100.08"
+    },
+    {
+        "CODIGO": "87257",
+        "DESCRICAO": "Revestimento Cerâmico Para Piso Com Placas Tipo Esmaltada Extra De      Dimensões      60x60      Cm Aplicada Em Ambientes De Área\nMaior         Que         10         M2. Af_02/2023_Pe",
+        "UNIDADE": "m²",
+        "CUSTO": "113.28"
+    },
+    {
+        "CODIGO": "94990",
+        "DESCRICAO": "Execução  De  Passeio  (Calçada) Ou    Piso    De    Concreto    Com Concreto Moldado In Loco, Feito Em          Obra,          Acabamento Convencional,      Não      Armado.\nAf_08/2022",
+        "UNIDADE": "m³",
+        "CUSTO": "885.73"
+    },
+    {
+        "CODIGO": "87530",
+        "DESCRICAO": "Massa  Única,  Para  Recebimento De Pintura, Em Argamassa Traço 1:2:8,  Preparo  Manual,  Aplicada Manualmente  Em  Faces  Internas De Paredes, Espessura De 20mm, Com    Execução    De    Taliscas.\nAf_06/2014",
+        "UNIDADE": "m²",
+        "CUSTO": "37.16"
+    },
+    {
+        "CODIGO": "87904",
+        "DESCRICAO": "Chapisco Aplicado Em Alvenaria (Com    Presença    De    Vãos)    E Estruturas     De     Concreto     De Fachada,      Com      Colher      De Pedreiro.    Argamassa  Traço  1:3\nCom Preparo Manual. Af_10/2022",
+        "UNIDADE": "m²",
+        "CUSTO": "7.06"
+    },
+    {
+        "CODIGO": "87532",
+        "DESCRICAO": "Emboço,   Para   Recebimento   De Cerâmica,  Em  Argamassa  Traço 1:2:8,  Preparo  Manual,  Aplicado Manualmente  Em  Faces  Internas De  Paredes,  Para  Ambiente  Com Área        Entre    5m2    E    10m2, Espessura     De     20mm,     Com Execução          De          Taliscas.\nAf_06/2014",
+        "UNIDADE": "m²",
+        "CUSTO": "36.1"
+    },
+    {
+        "CODIGO": "87269",
+        "DESCRICAO": "Revestimento     Cerâmico     Para Paredes Internas Com Placas Tipo Esmaltada  Extra  De  Dimensões 25x35  Cm  Aplicadas  Na  Altura\nInteira             Das            Paredes. Af_02/2023_Pe",
+        "UNIDADE": "m²",
+        "CUSTO": "65.58"
+    },
+    {
+        "CODIGO": "88497",
+        "DESCRICAO": "Emassamento  Com  Massa  Látex, Aplicação    Em    Parede,    Duas\nDemãos,     Lixamento     Manual. Af_04/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "14.35"
+    },
+    {
+        "CODIGO": "88487",
+        "DESCRICAO": "Aplicação   Manual    De   Pintura Com Tinta Látex Pva Em Paredes,\nDuas Demãos. Af_06/2014",
+        "UNIDADE": "m²",
+        "CUSTO": "8.61"
+    },
+    {
+        "CODIGO": "88485",
+        "DESCRICAO": "Fundo Selador Acrílico, Aplicação\nManual Em Parede, Uma Demão. Af_04/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "3.41"
+    },
+    {
+        "CODIGO": "88489",
+        "DESCRICAO": "Pintura  Látex  Acrílica  Premium, Aplicação   Manual   Em   Paredes,\nDuas Demãos. Af_04/2023",
+        "UNIDADE": "m²",
+        "CUSTO": "10.72"
+    },
+    {
+        "CODIGO": "73445",
+        "DESCRICAO": "Caiacao    Int     Ou    Ext    Sobre\nRevestimento  Liso  C/Adocao  De Fixador Com   Com Duas Demaos",
+        "UNIDADE": "m²",
+        "CUSTO": "9.26"
+    },
+    {
+        "CODIGO": "73924/001",
+        "DESCRICAO": "Pintura Esmalte Alto Brilho, Duas Demaos,        Sobre        Superficie Metalica",
+        "UNIDADE": "m²",
+        "CUSTO": "28.92"
+    },
+    {
+        "CODIGO": "74064/001",
+        "DESCRICAO": "Fundo  Anticorrosivo  A  Base  De Oxido  De  Ferro  (Zarcao),  Duas\nDemaos",
+        "UNIDADE": "m²",
+        "CUSTO": "23.06"
+    },
+    {
+        "CODIGO": "102234",
+        "DESCRICAO": "Pintura Imunizante Para Madeira,\n2 Demãos. Af_01/2021",
+        "UNIDADE": "m²",
+        "CUSTO": "22.68"
+    },
+    {
+        "CODIGO": "88417",
+        "DESCRICAO": "Aplicação   Manual    De   Pintura Com  Tinta  Texturizada  Acrílica Em   Panos   Cegos   De   Fachada (Sem   Presença   De   Vãos)   De Edifícios          De          Múltiplos Pavimentos,          Uma          Cor.\nAf_06/2014",
+        "UNIDADE": "m²",
+        "CUSTO": "14.4"
+    },
+    {
+        "CODIGO": "104473",
+        "DESCRICAO": "Composição      Paramétrica      De Ponto   Elétrico   De   Iluminação, Com    Interruptor    Simples,    Em Edifício        Residencial        Com Eletroduto  Embutido  Em  Rasgos Nas   Paredes,   Incluso   Tomada, Eletroduto,     Cabo,     Rasgo     E Chumbamento (Sem Luminária E\nLâmpada). Af_11/2022",
+        "UNIDADE": "UN",
+        "CUSTO": "142.36"
+    },
+    {
+        "CODIGO": "104475",
+        "DESCRICAO": "Composição      Paramétrica      De Ponto Elétrico De Tomada De Uso Geral     2p+T     (10a/250v)     Em Edifício        Residencial        Com Eletroduto  Embutido  Em  Rasgos Nas   Paredes,   Incluso   Tomada,\nEletroduto,  Cabo,  Rasgo,  Quebra E Chumbamento. Af_11/2022",
+        "UNIDADE": "UN",
+        "CUSTO": "123.59"
+    },
+    {
+        "CODIGO": "91936",
+        "DESCRICAO": "Caixa  Octogonal  4\"\"  X  4\"\",  Pvc, Instalada Em Laje - Fornecimento\nE Instalação. Af_03/2023",
+        "UNIDADE": "UN",
+        "CUSTO": "14.41"
+    },
+    {
+        "CODIGO": "91854",
+        "DESCRICAO": "Eletroduto   Flexível    Corrugado, Pvc,   Dn   25   Mm   (3/4\"\"),   Para Circuitos Terminais, Instalado Em\nParede      -      Fornecimento      E Instalação. Af_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "7.9"
+    },
+    {
+        "CODIGO": "93655",
+        "DESCRICAO": "Disjuntor   Monopolar   Tipo   Din, Corrente    Nominal    De    20a    - Fornecimento       E       Instalação.\nAf_10/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "14.1"
+    },
+    {
+        "CODIGO": "93657",
+        "DESCRICAO": "Disjuntor   Monopolar   Tipo   Din, Corrente    Nominal    De    32a    -\nFornecimento       E       Instalação. Af_10/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "15.4"
+    },
+    {
+        "CODIGO": "91959",
+        "DESCRICAO": "Interruptor  Simples  (2  Módulos), 10a/250v,   Incluindo   Suporte   E Placa - Fornecimento E Instalação.\nAf_03/2023",
+        "UNIDADE": "UN",
+        "CUSTO": "42.31"
+    },
+    {
+        "CODIGO": "91996",
+        "DESCRICAO": "Tomada   Média   De   Embutir   (1 Módulo),  2p+T  10  A,  Incluindo Suporte E Placa - Fornecimento E\nInstalação. Af_03/2023",
+        "UNIDADE": "UN",
+        "CUSTO": "31.95"
+    },
+    {
+        "CODIGO": "95778",
+        "DESCRICAO": "Condulete  De  Alumínio,  Tipo  C, Para       Eletroduto       De       Aço Galvanizado  Dn  20  Mm  (3/4''), Aparente     -     Fornecimento     E\nInstalação. Af_10/2022",
+        "UNIDADE": "UN",
+        "CUSTO": "25.98"
+    },
+    {
+        "CODIGO": "9041",
+        "DESCRICAO": "Dispositivo  De  Proteção  Contra Surto De Tensão DPS 60ka - 275v",
+        "UNIDADE": "un",
+        "CUSTO": "76.29"
+    },
+    {
+        "CODIGO": "91863",
+        "DESCRICAO": "Eletroduto  Rígido  Roscável,  Pvc, Dn 25 Mm (3/4\"\"), Para Circuitos Terminais,  Instalado  Em  Forro  - Fornecimento       E       Instalação.\nAf_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "9.74"
+    },
+    {
+        "CODIGO": "91870",
+        "DESCRICAO": "Eletroduto  Rígido  Roscável,  Pvc, Dn 20 Mm (1/2\"\"), Para Circuitos Terminais, Instalado Em Parede - Fornecimento       E       Instalação.\nAf_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "10.44"
+    },
+    {
+        "CODIGO": "91834",
+        "DESCRICAO": "Eletroduto   Flexível    Corrugado, Pvc,   Dn   25   Mm   (3/4\"\"),   Para Circuitos Terminais, Instalado Em",
+        "UNIDADE": "M",
+        "CUSTO": "15.18"
+    },
+    {
+        "CODIGO": "91836",
+        "DESCRICAO": "Eletroduto   Flexível    Corrugado, Pvc,    Dn    32    Mm    (1\"\"),    Para Circuitos Terminais, Instalado Em\nForro - Fornecimento E Instalação. Af_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "17.78"
+    },
+    {
+        "CODIGO": "91924",
+        "DESCRICAO": "Cabo  De  Cobre  Flexível  Isolado, 1,5 Mm², Anti-Chama 450/750 V, Para     Circuitos     Terminais     - Fornecimento       E       Instalação.\nAf_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "2.57"
+    },
+    {
+        "CODIGO": "91926",
+        "DESCRICAO": "Cabo  De  Cobre  Flexível  Isolado, 2,5 Mm², Anti-Chama 450/750 V, Para     Circuitos     Terminais     - Fornecimento       E       Instalação.\nAf_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "3.78"
+    },
+    {
+        "CODIGO": "91928",
+        "DESCRICAO": "Cabo De Cobre Flexível Isolado, 4 Mm²,   Anti-Chama   450/750   V, Para     Circuitos     Terminais     - Fornecimento       E       Instalação.\nAf_03/2023",
+        "UNIDADE": "M",
+        "CUSTO": "5.9"
+    },
+    {
+        "CODIGO": "103782",
+        "DESCRICAO": "Luminária  Tipo  Plafon  Circular, De Sobrepor, Com Led De 12/13 W  -  Fornecimento  E  Instalação.\nAf_03/2022",
+        "UNIDADE": "UN",
+        "CUSTO": "32.81"
+    },
+    {
+        "CODIGO": "96985",
+        "DESCRICAO": "Haste  De  Aterramento,  Diâmetro 5/8\"\",      Com      3      Metros      - Fornecimento       E       Instalação.\nAf_08/2023",
+        "UNIDADE": "UN",
+        "CUSTO": "81.96"
+    },
+    {
+        "CODIGO": "83463",
+        "DESCRICAO": "Quadro     De     Distribuicao     De Energia    Em    Chapa    De    Aco Galvanizado, Para 12 Disjuntores Termomagneticos    Monopolares, Com    Barramento    Trifásico    E\nNeutro      -      Fornecimento      E Instalacao",
+        "UNIDADE": "UN",
+        "CUSTO": "490.02"
+    },
+    {
+        "CODIGO": "92983",
+        "DESCRICAO": "Cabo  De  Cobre  Flexível  Isolado, 25 Mm², Anti-Chama 450/750 V, Para  Distribuição  -  Fornecimento\nE Instalação. Af_12/2015",
+        "UNIDADE": "M",
+        "CUSTO": "24.35"
+    },
+    {
+        "CODIGO": "93655",
+        "DESCRICAO": "Disjuntor   Monopolar   Tipo   Din, Corrente    Nominal    De    20a    - Fornecimento       E       Instalação.\nAf_10/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "14.1"
+    },
+    {
+        "CODIGO": "93042",
+        "DESCRICAO": "Lâmpada Led 6 W Bivolt Branca, Formato Tradicional (Base E27) - Fornecimento E Instalação",
+        "UNIDADE": "UN",
+        "CUSTO": "8.68"
+    },
+    {
+        "CODIGO": "97607",
+        "DESCRICAO": "Luminária        Arandela        Tipo Tartaruga,  De  Sobrepor,  Com  1 Lâmpada Led De 6 W, Sem Reator",
+        "UNIDADE": "UN",
+        "CUSTO": "116.26"
+    },
+    {
+        "CODIGO": "101493",
+        "DESCRICAO": "Entrada    De    Energia    Elétrica, Aérea,  Monofásica,   Com   Caixa De Embutir, Cabo De 10 Mm2 E Disjuntor Din 50a (Não Incluso O Poste            De            Concreto).\nAf_07/2020_Ps",
+        "UNIDADE": "UN",
+        "CUSTO": "1292.54"
+    },
+    {
+        "CODIGO": "101509",
+        "DESCRICAO": "Entrada    De    Energia    Elétrica, Aérea,  Trifásica,  Com  Caixa  De Embutir,   Cabo   De   10   Mm2   E Disjuntor Din 50a (Não Incluso O\nPoste            De            Concreto). Af_07/2020_Ps",
+        "UNIDADE": "UN",
+        "CUSTO": "1757.76"
+    },
+    {
+        "CODIGO": "100903",
+        "DESCRICAO": "Lâmpada  Tubular  Led  De  18/20 W,  Base  G13  -  Fornecimento  E\nInstalação. Af_02/2020_Ps",
+        "UNIDADE": "UN",
+        "CUSTO": "27.47"
+    },
+    {
+        "CODIGO": "86888",
+        "DESCRICAO": "Vaso   Sanitário   Sifonado   Com Caixa  Acoplada  Louça  Branca  - Fornecimento       E       Instalação.\nAf_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "450.92"
+    },
+    {
+        "CODIGO": "95546",
+        "DESCRICAO": "Kit  De Acessórios  Para Banheiro\nEm   Metal   Cromado,   5   Pecas, Incluso Fixação. Af_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "223.99"
+    },
+    {
+        "CODIGO": "86904",
+        "DESCRICAO": "Lavatório         Louça         Branca Suspenso,    29,5    X    39cm    Ou Equivalente,   Padrão   Popular   - Fornecimento       E       Instalação.\nAf_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "135.57"
+    },
+    {
+        "CODIGO": "86884",
+        "DESCRICAO": "Engate    Flexível    Em    Plástico Branco,     1/2”       X     30cm     -\nFornecimento       E       Instalação. Af_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "9.95"
+    },
+    {
+        "CODIGO": "86934",
+        "DESCRICAO": "Bancada   De   Mármore   Sintético 120 X 60cm, Com Cuba Integrada, Incluso  Sifão  Tipo  Flexível  Em Pvc,      Válvula      Em      Plástico Cromado    Tipo    Americana    E Torneira    Cromada    Longa,    De Parede,      Padrão      Popular      - Fornecimento       E       Instalação.\nAf_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "421.83"
+    },
+    {
+        "CODIGO": "89984",
+        "DESCRICAO": "Registro De Pressão Bruto, Latão, Roscável, 1/2\"\", Com Acabamento E       Canopla       Cromados       - Fornecimento       E       Instalação.\nAf_08/2021",
+        "UNIDADE": "UN",
+        "CUSTO": "93.56"
+    },
+    {
+        "CODIGO": "86912",
+        "DESCRICAO": "Torneira    Cromada    Longa,    De Parede, 1/2\"\" Ou 3/4\"\", Para Pia De Cozinha,      Padrão      Médio      -\nFornecimento       E       Instalação. Af_12/2013",
+        "UNIDADE": "UN",
+        "CUSTO": "53.52"
+    },
+    {
+        "CODIGO": "89712",
+        "DESCRICAO": "Tubo  Pvc,  Serie  Normal,  Esgoto Predial, Dn  50 Mm,  Fornecido  E Instalado Em Ramal De Descarga Ou  Ramal  De  Esgoto  Sanitário.\nAf_08/2022",
+        "UNIDADE": "M",
+        "CUSTO": "22.21"
+    },
+    {
+        "CODIGO": "89714",
+        "DESCRICAO": "Tubo  Pvc,  Serie  Normal,  Esgoto Predial, Dn 100 Mm, Fornecido E Instalado Em Ramal De Descarga Ou  Ramal  De  Esgoto  Sanitário.\nAf_08/2022",
+        "UNIDADE": "M",
+        "CUSTO": "30.92"
+    },
+    {
+        "CODIGO": "89355",
+        "DESCRICAO": "Tubo,  Pvc,  Soldável,  Dn  20mm, Instalado   Em   Ramal   Ou   Sub- Ramal De Água - Fornecimento E\nInstalação. Af_06/2022",
+        "UNIDADE": "M",
+        "CUSTO": "16.16"
+    },
+    {
+        "CODIGO": "89356",
+        "DESCRICAO": "Tubo,  Pvc,  Soldável,  Dn  25mm, Instalado   Em   Ramal   Ou   Sub- Ramal De Água - Fornecimento E\nInstalação. Af_06/2022",
+        "UNIDADE": "M",
+        "CUSTO": "18.62"
+    },
+    {
+        "CODIGO": "89447",
+        "DESCRICAO": "Tubo,  Pvc,  Soldável,  Dn  32mm, Instalado Em Prumada De Água - Fornecimento       E       Instalação.\nAf_06/2022",
+        "UNIDADE": "M",
+        "CUSTO": "10.26"
+    },
+    {
+        "CODIGO": "89448",
+        "DESCRICAO": "Tubo,  Pvc,  Soldável,  Dn  40mm, Instalado Em Prumada De Água - Fornecimento       E       Instalação.\nAf_06/2022",
+        "UNIDADE": "M",
+        "CUSTO": "15.8"
+    },
+    {
+        "CODIGO": "86906",
+        "DESCRICAO": "Torneira Cromada De Mesa, 1/2” Ou  3/4” ,  Para  Lavatório,  Padrão Popular      -      Fornecimento      E\nInstalação. Af_01/2020",
+        "UNIDADE": "UN",
+        "CUSTO": "72.42"
+    },
+    {
+        "CODIGO": "88503",
+        "DESCRICAO": "Caixa   D´Água   Em   Polietileno, 1000 Litros, Com Acessórios",
+        "UNIDADE": "UN",
+        "CUSTO": "1008.52"
+    },
+    {
+        "CODIGO": "9537",
+        "DESCRICAO": "Limpeza Final Da Obra",
+        "UNIDADE": "m²",
+        "CUSTO": "3.32"
+    },
+    {
+        "CODIGO": "73859/002",
+        "DESCRICAO": "Capina   E   Limpeza   Manual   De Terreno",
+        "UNIDADE": "m²",
+        "CUSTO": "1.23"
+    },
+    {
+        "CODIGO": "74143/002",
+        "DESCRICAO": "Cerca Com Mourões De Concreto, Reto,  15x15cm,  Espaçamento  De 3m,  Cravados  0,5m,  Escoras  De 10x10cm Nos Cantos, Com 9 Fios\nDe Arame De Aco Ovalado 15x17",
+        "UNIDADE": "M",
+        "CUSTO": "71.87"
+    },
+    {
+        "CODIGO": "3149",
+        "DESCRICAO": "Película   insulfilm    aplicada   ou Similar",
+        "UNIDADE": "m²",
+        "CUSTO": "39.85"
+    },
+    {
+        "CODIGO": "102364",
+        "DESCRICAO": "Alambrado         Para         Quadra Poliesportiva,    Estruturado    Por Tubos    De    Aco    Galvanizado, (Montantes   Com   Diâmetro   2\"\", Travessas      E      Escoras      Com Diâmetro   1   ¼),   Com   Tela   De Arame  Galvanizado,  Fio  10  Bwg E Malha Quadrada 5x5cm (Exceto\nMureta). Af_03/2021",
+        "UNIDADE": "m²",
+        "CUSTO": "180.04"
+    }
+]
